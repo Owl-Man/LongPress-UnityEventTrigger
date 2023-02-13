@@ -3,4 +3,4 @@
 
 It is enough to add a LongPressEventTrigger component and specify all the necessary events to trigger in it, as with a default unity button component, and everything will work.
 
-But you can also specify how often events should be triggered when the button is pressed - **tact** paramter (The lower the value, the more often; the higher the value, the less often)
+But you can also specify how often events should be triggered when the button is pressed - **tact** paramter (The lower the value, the more often; the higher the value, the less often). Balance value is set by default.
